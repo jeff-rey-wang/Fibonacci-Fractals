@@ -31,6 +31,6 @@ Example:
 ./fib 25 10 10 5 5000 5000 fib25.bmp
 ```
 
-***Note that fractals of n > 30 may take a significant amount of time to compute, and require intensive processing power to view.***
+***Note that fractals of n > 30 may take a significant amount of time to compute, and are RAM-intensive to view.***
 
 To clean type "make clean".
